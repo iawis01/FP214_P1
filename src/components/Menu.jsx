@@ -13,7 +13,7 @@ const Menu = () => {
     Alert.alert("Botón Perfil pulsado");
   };
   let alarmContactar = () => {
-    Alert.alert("Botón evolución pulsado");
+    Alert.alert("Botón contactar pulsado");
   };
   let alarmSobreNosotros = () => {
     Alert.alert("Botón Sobre Nosotros pulsado");
